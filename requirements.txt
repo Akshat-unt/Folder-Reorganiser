@@ -1,4 +1,0 @@
-pathlib==1.0.1
-pathtools==0.1.2
-python-dotenv==0.13.0
-watchdog==0.10.2
